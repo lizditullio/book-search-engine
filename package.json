@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/lizditullio/book-search-engine#readme",
   "dependencies": {
-    "apollo-server-express": "^2.15.0"
+    "apollo-server-express": "^2.25.4",
+    "graphql": "^15.8.0"
   }
 }
