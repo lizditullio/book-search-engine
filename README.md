@@ -25,7 +25,6 @@ https://ditullio-book-search.herokuapp.com/
 * CSS
 * Node.js
     - Packages:
-        - concurrently
         - apollo-server-express
         - bcrypt
         - express
